@@ -11,5 +11,6 @@ print ("hola")
 class verificacion:
     
     print("hola")
+    def __init__(self):
     
     
